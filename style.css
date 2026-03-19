@@ -12,3 +12,7 @@ h1, h2 {
 body {
     background: violet;
 }
+
+<hr> {
+    color: black;
+}
