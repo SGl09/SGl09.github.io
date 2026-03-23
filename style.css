@@ -17,3 +17,8 @@ body {
 hr {
     color: black;
 }
+
+
+div {
+    display: block;
+}
