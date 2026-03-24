@@ -1,6 +1,4 @@
-body {
-    background: black;
-}
+
 p {
     background-color: white;
 }
@@ -10,4 +8,5 @@ div {
   border: solid black 1px;
   width: 200px;
   block-size: 200px;
+  display: block;
 }
