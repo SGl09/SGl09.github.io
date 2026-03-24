@@ -10,3 +10,6 @@ div {
   block-size: 200px;
   display: block;
 }
+body {
+    background: black;
+}
