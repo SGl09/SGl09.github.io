@@ -1,0 +1,14 @@
+div {
+    background-color: pink;
+    border: solid blue;
+    display: inline-block;
+    block-size: 200px;
+    width: 200px
+}
+div.c {
+    background-color: pink;
+    border: solid blue;
+    display: inline-block;
+    block-size: 200px;
+    width: 200px
+}
