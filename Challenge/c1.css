@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+
+}
+
+div {
+  text-align: center;  
+  background-color: green;
+  border: solid black 1px;
+  width: 250px;
+  block-size: 250px;
+  display: block;
+  margin-top: 15;
+  margin-left: 1200px
+}
+  div.ex {
+  text-align: center;
+  background-color: yellow;
+  border: solid black 1px;
+  width: 250px;
+  block-size: 250px;
+  display: block;
+  margin-top: 15;
+  margin-left: 1200px
+}
+
+  div.exx {
+  text-align: center;  
+  background-color: red;
+  border: solid black 1px;
+  width: 250px;
+  block-size: 250px;
+  margin-top: 15;
+  margin-left: 1200px
+}
+
+body {
+    background: black;
+}
