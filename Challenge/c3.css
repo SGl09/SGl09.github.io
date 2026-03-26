@@ -1,0 +1,15 @@
+div {
+     background-color: pink;
+    display: block;
+      width: 500px;
+  block-size: 500px;
+  margin-bottom: -100;
+}
+div.a {
+    background-color:aquamarine;
+    display: inline-block;
+    width: 400px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: -400px;
+}
