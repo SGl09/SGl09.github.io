@@ -1,7 +1,7 @@
 
 div {
     background-color: pink;
-    border: solid blue;
+    border: 5px solid blue; 
     display: inline-block;
     font-size: 50px;
     color: red;
@@ -18,4 +18,24 @@ div {
 }
 #four {
     color: blue;
+}
+
+div.c {
+    background-color: black;
+    border: 5px solid green;
+    display: inline-block;
+    font-size: 50px;
+    color: purple;
+}
+
+#six {
+    color: violet;
+}
+
+#seven {
+    color: white;
+}
+
+#eight {
+    color: grey;
 }
