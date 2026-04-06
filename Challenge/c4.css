@@ -3,5 +3,6 @@ div {
     font: italic small-caps bold 50px;
     width: 200px;
     height: 100px;
+    display: inline-block;
 
 }
