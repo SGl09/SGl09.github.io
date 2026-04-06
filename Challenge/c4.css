@@ -1,17 +1,22 @@
 
 p.a {
     font: italic small-caps bold 12px/30px arial, serif;
-    font-size: 50px;
-    margin-left: 850px;
-    margin-top: 20px;
+    font-size: 150px;
+    margin-top: 80px;
+    text-align: center;
     
 
 }
 div {
-    background-color: lightgray;
-    width: 220px;
+    background-color: whitesmoke;
+    width: 230px;
 }
 p.b {
-    color: black;
+    font: italic small-caps bold 12px/30px arial, serif;
+    font-size: 16px;
+}
+span {
     display: block;
+    text-align: center;
+    font-size: 18px;
 }
