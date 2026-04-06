@@ -1,8 +1,17 @@
 
-p {
-    font-style: italic;
+p.a {
+    font: italic small-caps bold 12px/30px arial, serif;
     font-size: 50px;
-    font-display: block;
     margin-left: 850px;
+    margin-top: 20px;
+    
 
+}
+div {
+    background-color: lightgray;
+    width: 220px;
+}
+p.b {
+    color: black;
+    display: block;
 }
