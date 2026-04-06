@@ -1,5 +1,7 @@
 h1 {
     background-color: gray;
-    font: italic small-caps bold 50px,
+    font: italic small-caps bold 50px;
+    width: 200px;
+    height: 100px;
 
 }
