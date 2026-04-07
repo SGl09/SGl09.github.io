@@ -1,7 +1,7 @@
 
 p.a {
-    font: italic small-caps bold 12px/30px arial, serif;
-    font-size: 150px;
+    font: italic small-caps bold 12px/30px times, serif;
+    font-size: 125px;
     margin-top: 80px;
     text-align: center;
     
@@ -10,13 +10,29 @@ p.a {
 div {
     background-color: whitesmoke;
     width: 230px;
+    margin-left: 300px;
+    border: whitesmoke;
 }
 p.b {
-    font: italic small-caps bold 12px/30px arial, serif;
+    font: italic small-caps bold 12px/30px times, serif;
     font-size: 16px;
 }
 span {
     display: block;
-    text-align: center;
     font-size: 18px;
+}
+div.a {
+    background-color: whitesmoke;
+    width: 750px;
+    margin-left: 900px;
+    display: block;
+    margin-top: -1020px;
+    border: whitesmoke;
+}
+div.c {
+    background-color: whitesmoke;
+    width: 230px;
+    margin-left: 2000px;
+    border: whitesmoke;
+    margin-top: -835px;
 }
