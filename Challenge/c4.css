@@ -12,6 +12,7 @@ div {
     width: 230px;
     margin-left: 300px;
     border: whitesmoke;
+    font-family: "Times New Roman", Times, serif;
 }
 p.b {
     font: italic small-caps bold 12px/30px times, serif;
@@ -28,6 +29,7 @@ div.a {
     display: block;
     margin-top: -1020px;
     border: whitesmoke;
+    font-family: "Times New Roman", Times, serif;
 }
 div.c {
     background-color: whitesmoke;
@@ -35,4 +37,5 @@ div.c {
     margin-left: 2000px;
     border: whitesmoke;
     margin-top: -835px;
+    font-family: "Times New Roman", Times, serif;
 }
