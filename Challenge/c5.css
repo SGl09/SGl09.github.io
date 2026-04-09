@@ -1,7 +1,7 @@
 div {
     background-color: red;
     width: 200px;
-    height: 125px;
+    height: 143px;
     margin-top: -15px;
     margin-left: -10;
 
@@ -9,21 +9,129 @@ div {
 div.a {
     background-color: rgb(218, 150, 150);
     width: 2362px;
-    height: 125px;
+    height: 143px;
     margin-left: 190px;
-    margin-top: -118px;
+    margin-top: -143px;
 }
 div.b {
     background-color: yellow;
-    width: 400px;
-    height: 125px;
+    width: 500px;
+    height: 143px;
     margin-top: -7;
     margin-left: -10;
 }
 div.c {
     background-color:blanchedalmond;
     width: 2362px;
-    height: 125px;
+    height: 143px;
     margin-left: 390px;
-    margin-top: -125px;
+    margin-top: -143px;
+}
+div.d {
+    background-color: blue;
+    width: 650px;
+    height: 143px;
+    margin: .5;
+    margin-left: -10;
+}
+div.e {
+    background-color:skyblue;
+    width: 2362px;
+    height: 143px;
+    margin-left: 640px;
+    margin-top: -143px;
+}
+div.f {
+    background-color: green;
+    width: 900px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.g {
+    background-color:lightgreen;
+    width: 2362px;
+    height: 143px;
+    margin-left: 890px;
+    margin-top: -143px;
+}
+div.h {
+    background-color: purple;
+    width: 1200px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.i {
+    background-color:rgb(231, 162, 231);
+    width: 2362px;
+    height: 143px;
+    margin-left: 1190px;
+    margin-top: -143px;
+}
+div.j {
+    background-color: lightgreen;
+    width: 1500px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.k {
+    background-color: green;
+    width: 1500px;
+    height: 143px;
+    margin: .5;
+    margin-left: 1490px;
+    margin-top: -143px;
+}
+div.l {
+    background-color: skyblue;
+    width: 2350px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.m {
+    background-color: blue;
+    width: 1500px;
+    height: 143px;
+    margin: .5;
+    margin-left: 1740px;
+    margin-top: -143px;
+}
+div.n {
+    background-color: blanchedalmond;
+    width: 2350px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.o {
+    background-color: yellow;
+    width: 1500px;
+    height: 143px;
+    margin: .5;
+    margin-left: 1990px;
+    margin-top: -143px;
+}
+div.p {
+    background-color: rgb(218, 150, 150);
+    width: 2350px;
+    height: 143px;
+    margin: .5;
+    margin-top: -1px;
+    margin-left: -10;
+}
+div.q {
+    background-color: red;
+    width: 1500px;
+    height: 143px;
+    margin: .5;
+    margin-left: 2290px;
+    margin-top: -143px;
 }
