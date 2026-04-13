@@ -1,8 +1,8 @@
 
-p.a {
-    font: italic small-caps bold 12px/30px times, serif;
+h1.a {
+    font-family: "Monoco", sans-serif;
     font-size: 125px;
-    margin-top: 80px;
+    margin-top: 60px;
     text-align: center;
     
 
