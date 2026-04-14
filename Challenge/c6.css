@@ -1,0 +1,19 @@
+div {
+background-color: #303030;
+width: 2562px;
+height: 75px;
+margin-top: -15px;
+margin-left: -10;
+}
+div.a {
+background-color: #d6d6d6;
+width: 2562px;
+height: 75px;
+
+}
+div.b {
+background-color: #303030;
+width: 2562px;
+height: 75px;
+
+}
