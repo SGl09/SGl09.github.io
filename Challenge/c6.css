@@ -1,19 +1,28 @@
 div {
-background-color: #303030;
+background-color: #d6d6d6;
 width: 2562px;
-height: 75px;
+height: 100px;
 margin-top: -15px;
 margin-left: -10;
 }
 div.a {
-background-color: #d6d6d6;
+background-color: white;
 width: 2562px;
-height: 75px;
+height: 300px;
 
 }
 div.b {
 background-color: #303030;
 width: 2562px;
-height: 75px;
+height: 200px;
 
 }
+img.a {
+    margin-left: 600px;
+    margin-top: 25px;
+}
+
+p {
+    margin-left: 50px;
+}
+
