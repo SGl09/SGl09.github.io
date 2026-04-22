@@ -6,10 +6,10 @@ margin-top: -15px;
 margin-left: -10;
 }
 div.a {
-background-color: #eaeaea;
+background-color: #ffffff;
 width: 2562px;
 height: 200px;
-margin-top: 25;
+margin-top: -25;
 margin-left: 0;
 display: block;
 }
@@ -17,7 +17,13 @@ div.c {
 background-color: #303030;
 width: 2562px;
 height: 250px;
-margin-top: -15px;
+margin-top: -340px;
+margin-left: -10;
+}
+div.d {
+background-color: #000000;
+width: 2562px;
+height: 725px;
 margin-left: -10;
 }
 p {
@@ -80,7 +86,7 @@ p.f {
     text-align: center;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     margin-left: 75px;
-    margin-top: -40px;
+    margin-top: -30px;
     font-size: 18px;
 }
 p.g {
@@ -110,13 +116,24 @@ p.i {
     margin-top: -36px;
     font-size: 18px;
 }
+
+p.o {
+    color: white;
+    text-align: center;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 50px;
+    margin-left: 95;
+    margin-top: 70;
+    margin-bottom: 100px;
+}
 p.p {
     color: white;
     text-align: center;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     font-size: 50px;
     margin-left: 95;
-    margin-top: 0;
+    margin-top: -90;
+    margin-bottom: 150;
 }
 
 img.a {
@@ -139,3 +156,15 @@ img.d {
 margin-top: -1000;
 }
 
+img.e {
+margin-left: 1100;   
+margin-top: -500;
+}
+img.f {
+margin-left: 1250;   
+margin-top: -1100;
+}
+img.g {
+margin-left: 1360;   
+margin-top: -1180;
+}
