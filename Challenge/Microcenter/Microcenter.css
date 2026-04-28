@@ -1,5 +1,41 @@
 div {
-    background-color: blue;
-height: 50px;
-width:2363px;
+    background-color: #0073df;
+width:2544px;
+margin-left: -8px;
+margin-top: -8px;
+font-size: 16px;
+text-align: center;
+justify-content: center;
+padding: 8px;
+}
+
+#one{
+width: 2544px;
+background-color:#212529;
+margin-top: 0;
+padding: 0;
+margin-top: 8;
+margin-left: 8;
+}
+div.img {
+background-color:#212529;
+margin-left: -560;
+}
+
+div.row {
+    padding: 0;
+    margin-left: -8;
+    margin-top: -8px;
+    width: 2544px;
+
+}
+
+span {
+    font-weight: bold;
+    color: white;
+}
+body {
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
 }
