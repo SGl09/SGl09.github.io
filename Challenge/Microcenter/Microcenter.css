@@ -25,14 +25,108 @@ margin-left: -560;
 div.row {
     padding: 0;
     margin-left: -8;
-    margin-top: -8px;
-    width: 2544px;
+    margin-top: -6px;
+    width: 2560px;
+    background-color: rgb(255, 255, 255);
+}
+div.prod {
+    padding: 0;
+    margin-left: -8;
+    margin-top: 6px;
+    background-color: white;
+    width: 106.12px;
+    height: 42px;
+    margin-left: 685px;
 
 }
+div.deal {
+    padding: 0;
+    margin-left: -8;
+    margin-top: -42px;
+    background-color: white;
+    width: 106.12px;
+    height: 42px;
+    margin-right: 863px;
+    display: inline-block;
 
+}
+div.part {
+    padding: 0;
+    margin-left: -8;
+    margin-top: -42px;
+    background-color: white;
+    width: 106.12px;
+    height: 42px;
+    margin-left: 897px;
+
+}
+div.computer {
+    padding: 0;
+    margin-left: -8;
+    margin-top: -42px;
+    background-color: white;
+    width: 106.12px;
+    height: 42px;
+    margin-left: -447px;
+    display: inline-block;
+
+}
+div.apple {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -58px;
+    background-color: white;
+    width: 106.12px;
+    height: 40px;
+    margin-left: 106px;
+
+}
+div.service {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -40px;
+    background-color: white;
+    width: 106.12px;
+    height: 40px;
+    margin-left: 211px;
+
+}
 span {
     font-weight: bold;
     color: white;
+}
+p {
+    font-weight: bold;
+    margin-top: 5;
+    padding: 12;
+}
+#deal {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#part {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#computer {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#apple {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#service {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+hr {
+    margin-top: -0;
 }
 body {
     font-family: Open Sans, Helvetica, Arial, sans-serif;
