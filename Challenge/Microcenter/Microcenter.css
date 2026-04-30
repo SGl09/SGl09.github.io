@@ -88,8 +88,55 @@ div.service {
     background-color: white;
     width: 106.12px;
     height: 40px;
-    margin-left: 211px;
+    margin-left: 200px;
 
+}
+div.care {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -40px;
+    background-color: white;
+    width: 106.12px;
+    height: 40px;
+    margin-left: 300px;
+
+}
+div.sup {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -40px;
+    background-color: white;
+    width: 106.12px;
+    height: 40px;
+    margin-left: 410px;
+
+}
+div.mc {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -40px;
+    background-color: white;
+    width: 106.12px;
+    height: 40px;
+    margin-left: 510px;
+
+}
+div.blu {
+    padding: 0;
+    margin-left: 0;
+    margin-top: -40px;
+    background-color: white;
+    width: 300px;
+    height: 40px;
+    margin-left: 610px;
+
+}
+div.bellow {
+    padding: 0;
+    margin-left: 0;
+    background-color: white;
+    width: 2544px;
+    height: 1000px;
 }
 span {
     font-weight: bold;
@@ -124,6 +171,27 @@ p {
     font-weight: bold;
     margin-top: 0;
     padding: 12;
+}
+#care {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#sup {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#mc {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+}
+#blu {
+    font-weight: bold;
+    margin-top: 0;
+    padding: 12;
+    color:#0073df;
 }
 hr {
     margin-top: -0;
