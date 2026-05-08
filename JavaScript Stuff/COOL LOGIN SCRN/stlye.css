@@ -1,0 +1,13 @@
+#username {
+    display: block;
+    padding: 4px;
+    margin-top: -4px;
+}
+#type-here {
+    display: block;
+    padding: 4px;
+    margin-top: 4px;
+}
+#log {
+    margin-top: 4px;
+}
