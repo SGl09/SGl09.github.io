@@ -38,15 +38,22 @@ function changeText() {
         document.getElementById("log").style.marginTop ="1000px"
     }
 }
-here = document.getElementById("here");
-username = document.getElementById("username");
-password = document.getElementById("type-here");
 function correctUNPW() {
-    if (username < innerHTML.sloppykissesfromgrandma, password < innerHML.babybaby123)
-        here.innerHTML = "YAY YOU DID IT!!!!!!!!!"
+  var username = document.getElementById("username")
+
+  var password = document.getElementById("type-here")
+
+  here = document.getElementById("here")
 
 
-}
+  if (username = sloppykissesfromgrandma)
+  if (password = babybaby123) {
+    here.innerHTML = "YAY YOU DID IT"
+  }
+  }
+
+
+
 
 document.getElementById("log").addEventListener("click", changeText);
 document.getElementById("log").addEventListener("click", correctUNPW);
