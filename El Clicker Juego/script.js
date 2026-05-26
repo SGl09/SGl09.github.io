@@ -4,11 +4,11 @@ var counter = document.getElementById("counterMonster")
 var numItem = 0
 var itemPerClick = 1
 
-counter.innerHTML = "0 Items";
+counter.innerHTML = "0 Monsters";
 
 function clickItem(){
     numItem = numItem + itemPerClick;
-    counter.innerHTML = numItem.toString() + " Items";
+    counter.innerHTML = numItem.toString() + " Monsters";
 }
 
 
