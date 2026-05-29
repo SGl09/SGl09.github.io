@@ -20,9 +20,18 @@ function upgradeClick(){
         itemPerClick = itemPerClick + 1
         numItem = numItem - 15
         counter.innerHTML = numItem.toString() + " Monsters";
-        upgrade.innerHTML = "Upgrade Click: 500 monsters"
+        upgrade.innerHTML = "Upgrade Click: 500 monsters";
     }
 }
+function upgradeClick_2(){
+        if (numItem > 499) {
+        itemPerClick = itemPerClick + 2
+        numItem = numItem - 500
+        counter.innerHTML = numItem.toString() + " Monsters";
+        upgrade.innerHTML = "Upgrade Click: 15000 monsters"
+    }
+}
+
 function autoClick(){
     if (numItem > 199) {
         autoEarn = autoEarn + 1
@@ -32,12 +41,13 @@ function autoClick(){
         
     }
 }
-function autoClickAction(){
+    setInterval(function autoClickAction(){
     numItem = numItem + autoEarn;
-    counter.innerHTML = numItem.toString() + " Monsters";
+    counter.innerHTML = numItem.toString() + " Monsters";}, 500)
 
-}
+
 
 itemMonster.addEventListener("click", clickItem)
-upgrade.addEventListener("click", upgradeClick)
+upgrade.addEventListener("click", upgradeClick,);
+upgrade.addEventListener("click", upgradeClick_2,);
 upgrade2.addEventListener("click", autoClick)
