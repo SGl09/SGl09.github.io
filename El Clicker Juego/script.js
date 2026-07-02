@@ -21,6 +21,7 @@ function upgradeClick(){
         numItem = numItem - 15
         counter.innerHTML = numItem.toString() + " Monsters";
         upgrade.innerHTML = "Upgrade Click: 500 monsters";
+        upgrade.removeEventListener("click", upgradeClick)
     }
 }
 function upgradeClick_2(){
@@ -48,6 +49,6 @@ function autoClick(){
 
 
 itemMonster.addEventListener("click", clickItem)
-upgrade.addEventListener("click", upgradeClick,);
+upgrade.addEventListener("click", upgradeClick,)
 upgrade.addEventListener("click", upgradeClick_2,);
 upgrade2.addEventListener("click", autoClick)
